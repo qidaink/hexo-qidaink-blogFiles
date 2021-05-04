@@ -1,0 +1,23 @@
+{
+  "name": "hexo-qidaink-blogfiles",
+  "version": "0.0.1",
+  "description": "blog files of Cloud And Sea.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qidaink/hexo-qidaink-blogFiles.git"
+  },
+  "keywords": [
+    "next",
+    "qidaink"
+  ],
+  "author": "qidaink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qidaink/hexo-qidaink-blogFiles/issues"
+  },
+  "homepage": "https://github.com/qidaink/hexo-qidaink-blogFiles#readme"
+}
